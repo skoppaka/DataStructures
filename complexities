@@ -1,0 +1,9 @@
+			Worst Case	Best Case	Average
+
+Merge Sort     :	nlogn		nlogn		nlogn
+Quick Sort     :	n^2		nlogn		nlogn
+Heap Sort      :	nlogn		nlogn		nlogn
+Bubble Sort    :	n^2		n		n^2
+Insertion Sort :	n^2		n		n^2
+Select Sort    :	n^2		n^2		n^2
+Bucket Sort    :	n^2		n+k		n+k
